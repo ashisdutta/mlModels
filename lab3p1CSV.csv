@@ -1,0 +1,12 @@
+patientID,Name,Age,Gender,Chol,Target
+1,William,35,Male,100,0
+2,Mary,30,Female,130,0
+3,Emily,20,Female,120,0
+4,Tom,59,Male,350,1
+5,Linda,28,Female,80,0
+6,James,60,Male,300,1
+7,Karen,25,Male,280,1
+8,Robert,65,Male,88,0
+9,Ashley,20,Female,90,0
+10,Joseph,55,Male,170,1
+11,Amy,50,Female,120,0
